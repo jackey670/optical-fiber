@@ -1,1 +1,1 @@
-# optical-fiber
+# Superstructure fiber grating simulation
